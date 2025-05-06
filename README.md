@@ -1,7 +1,6 @@
 # 🪙 LOTR Converter
 
 **LOTR Converter** is a fun, beginner SwiftUI app that allows users to convert between fictional currencies from the world of *The Lord of the Rings*.
-![App Screenshot](#) <!-- Optional: Replace with actual screenshot URL or local file -->
 
 ---
 
