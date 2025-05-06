@@ -56,7 +56,7 @@
 
 ## 📸 Screenshots
 ### Main Screen with TipKit  
-![Main Screen](Screenshots/Main%20Screen%20w:%20TipKit.png)
+<img src="Screenshots/Main%20Screen%20w:%20TipKit.png" alt="Main Screen" height="400"/>
 
 ### Select Currency Screen  
 ![Select Currency](Screenshots/Select%20Currency%20Screen.png)
