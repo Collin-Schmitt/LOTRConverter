@@ -55,18 +55,18 @@
 ---
 
 ## 📸 Screenshots
+### Main Screen with TipKit  
+![Main Screen](Screenshots/Main%20Screen%20w:%20TipKit.png)
 
-### Main Screen with TipKit
-![Main Screen](Screenshots/main_screen_tipkit.png)
+### Select Currency Screen  
+![Select Currency](Screenshots/Select%20Currency%20Screen.png)
 
-### Select Currency Screen
-![Select Currency](Screenshots/select_currency.png)
+### Exchange Rates Page  
+![Exchange Info](Screenshots/ExchangeRates%20Page.png)
 
-### Exchange Rates Page
-![Exchange Info](Screenshots/exchange_rates.png)
+### Currency Conversion Example  
+![Conversion](Screenshots/Currency%20Conversion%20.png)
 
-### Currency Conversion Example
-![Conversion](Screenshots/currency_conversion.png)
 
 ---
 
