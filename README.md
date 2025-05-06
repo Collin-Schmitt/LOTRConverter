@@ -54,6 +54,22 @@
 
 ---
 
+## 📸 Screenshots
+
+### Main Screen with TipKit
+![Main Screen](Screenshots/main_screen_tipkit.png)
+
+### Select Currency Screen
+![Select Currency](Screenshots/select_currency.png)
+
+### Exchange Rates Page
+![Exchange Info](Screenshots/exchange_rates.png)
+
+### Currency Conversion Example
+![Conversion](Screenshots/currency_conversion.png)
+
+---
+
 ## 🙌 Acknowledgments
 - Inspired by the world of J.R.R. Tolkien
 - Built as a SwiftUI learning project
